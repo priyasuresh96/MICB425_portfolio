@@ -1,6 +1,6 @@
 ---
 title: "MICB425 portfolio"
 author: "Priya Suresh (15992143)"
-date: "January 22, 2018"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
 output: html_document
 ---
