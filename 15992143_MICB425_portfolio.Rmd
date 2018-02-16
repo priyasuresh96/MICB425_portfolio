@@ -7,12 +7,9 @@ output:
     toc: true
 ---
 # Module 01
-Reserve the first level headings (#) for the start of a new Module. This will help to organize your portfolio in an intuitive fashion.  
-**Note: Please edit this template to your heart's content. This is meant to be the armature upon which you build your individual portfolio. You do not need to keep this instructive text in your final portfolio, although you do need to keep module and assignment names so we can identify what is what.**
-
 
 ## Module 01 portfolio check
-The first of your second level headers (##) is to be used for the portfolio content checks. The Module 01 portfolio check has been built for you directly into this template, but will also be available as a stand-alone markdown document available on the MICB425 GitHub so that you know what is required in each module section in your portfolio. The completion status and comments will be filled in by the instructors during portfolio checks when your current portfolios are pulled from GitHub.
+
 
 * Installation check
     + Completion status:
@@ -49,11 +46,6 @@ The first of your second level headers (##) is to be used for the portfolio cont
 
 ## Origins and Earth Systems
 ### Evidence worksheet 01 
-The template for the first Evidence Worksheet has been included here. The first thing for any assignment should link(s) to any relevant literature (which should be included as full citations in a module references section below).
-
-You can copy-paste in the answers you recorded when working through the evidence worksheet into this portfolio template. 
-
-As you include Evidence worksheets and Problem sets in the future, ensure that you delineate Questions/Learning Objectives/etc. by using headers that are 4th level and greater. This will still create header markings when you render (knit) the document, but will exclude these levels from the Table of Contents. That's a good thing. You don't' want to clutter the Table of Contents too much.
 
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
@@ -61,16 +53,32 @@ As you include Evidence worksheets and Problem sets in the future, ensure that y
 Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
 
 #### General questions
-* What were the main questions being asked?  
+* **What were the main questions being asked?**  
+There are two main questions that are asked in this article. One of the main questions that is asked is the estimated number of prokaryotes in the different environments including aquatic, soil, oceanic and terrestrial subsurfaces.  Second, the article also asks hows much cellular carbon prokaryotes contribute to the total amount of carbon on Earth. 
 
-* What were the primary methodological approaches used?  
+* **What were the primary methodological approaches used?**  
+To calculate the number of prokaryotes in the oceanic reservoir, polar region and frewshwater/saline lakes, cellular density was multiplied to global estimates of ocean/lake volume to determine the total number of cells. For the polar region, data from existing literature was used for the estimated number of prokaryotes and they used mean area extent of seasonal ice. To calculate prokaryotes in the soil, cellular density was measured using dfirect counts from forest soil and past field studies. These values were used in addition to previously estimated amounts of soil on Earth to calculate the total prokaryotic abundance in the soil. To calculate the number of prokaryotes in the terrestrial subsurface they estimated the number of prokaryotes in groundwater based on values from several sites. These values were multiplied using the estimated value of groundwater on Earth. In addition, they also did a separate calculation using the average porosity of Earth’s soil and used known values of space occupied by prokaryotes within these pores. To calculate the carbon content and prduction by prokaryotes, the dry weight of cells was first calculated. Two important assumptions were made, first It was assumed that the amount of carbon in prokaryotes was equal to half of their dry weight. Second, it was assumed that the amount of carbon produced during each turnover is about four times their carbon content. These two assumptions and the prokaryotic turnover rates were used to calculate the production of carbon in prokaryotes. 
 
-* Summarize the main results or findings.  
 
-* Do new questions arise from the results?  
+* **Summarize the main results or findings.**  
+It was found that prokaryotes do the most primary productivity in the ocean. Prokaryotes have the capacity for genetic diversity as they can evolve. Prokaryotic carbon globally, is almost double the total carbon in living organisms. Based on oceanic, soil and oceanic and terrestrial subsurface habitats, the estimated total number of prokaryotes is 4.6x10^30 cells. Prokaryotes contribute 350-550pg carbon to the total amount of carbon on Earth and this is assumed to double the current estimates of carbons stored in living organisms. The total amount of prokaryotic carbon is 60-100% of the estimated total carbon in plants. Prokaryotes contain about 85-130Pg of nitrogen and 9-14Pg of phosphorous, which is almost 10 fold more than plants. Most of the prokaryotes are found in the ocean, soil, and oceanic and terrestrial subsurface habitats: 1.2x10^29 cells in open ocean, 2.6x10^29 cells in soil, 3.5x10^30 cells in oceanic subsurface, 0.25-2.5) x 10^30 cells in terrestrial subsurface. The cellular production rate is about 1.7x10^30 cells/year.The average prokaryotic turnover times are:
+	-1.2x10^29 cells in open ocean
+	-2.6x10^29 cells in soil
+	-3.5x10^30 cells in oceanic subsurface
+	-(0.25-2.5) x 10^30 cells in terrestrial subsurface
 
-* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+* **Do new questions arise from the results?**  
+Some questions that arise from the results include:
+1. With such large number of prokaryotes, how do their turnovers affect nutrient cycles? And how do they play  a role in the total metabolic potential of the ecosystem? 
+2. How can the diversity of prokaryotes be explored?
+3. Is there a better definition for what defines species? 
+4. How accurate are the estimates based on the literature since a lot of assumptions were made?
+5. How can we confirm that these estimates on the abundanc eof prokaryotes is correct?
+6. What factors and events do these prokaryotes cause or influence on Earth? 
 
+
+* **Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?**  
+There was a lot of data thrown at you initially without discussing the significance or including context. They didn’t explain the studies where they took their data from or discuss whether they agreed with it or not. They only mentioned that they extropolated data but did not mention how they did it by indicating any forumlas or include any citatations. Figures and tables were straight forward and easy to understand but it was just the same information that was already mentionin the text. They mentioned the definition of species at the end but it felt very out of place. Furthermore, more granularity could have been included within the different environments to get a better understanding. For example, the ocean could have been divided into Pacific Ocean, Indian Ocean and Atlantic Ocean. The article did provide a lot of information about the results, but they did not include valid methods which makes it difficult to conclude whether the conclusions are accurate. 
 
 
 ### Problem set 01
@@ -78,33 +86,134 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
 Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
 
 #### Specific questions:
-* What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
+* **What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.**  
+There are three primary prokaryotic habitats on Earth inlcuding the open ocean, soil and subsurface sediements. The open ocean has approximately 1.181x10^29 cells, and prokaryotes are primarily found in the upper 200m of open ocean. The soil has approximately 2.556x10^29 cells and subsurface sediments have about 3.8x10^30 cells. 
 
-* What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
+* **What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?**   
+The estimated prokaryotic cell abundance in the upper 200m of the ocean is 3.6x10^28 cells at ocean density of 5x10^5 cells/mL. The abundance of autotrophs is 2.9x10^27 cells and the density of *Procholorococcus* is 4x10^4 cells/mL. In this habitat the average cellular density is 8% which is calculated by:   
+(4*10^4 cells/ml) divided by (5x10^5 cells) times 100%= 8%  
+8% of the autotrophs are responsible for the amount of carbon being cycles through the Earth's oceans which supports the carbon availability for the rest of the 92% heterotrophs present.
 
-* What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
+* **What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?**   
+The article states that autotrophs use simple compounds around them to make their own complex organic compound. Autotrophs are “self-nourishing” and fix inorganic carbon (CO2) into their biomass. Heterotrophs assimilate organic carbon to produce energy. Lithotrophs use inorganic substrates to produce energy.
 
-* Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
+* **Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?**    
+There is life up to 4km deep in the subsurface and the deepest point in the ocean is the Mariana's Trench which is about 10.9km deep. Therefore the lowest point where life could potentially exist is 14.9km deep. The limiting factor at this depth could be the high temperature as it reaches 125degrees Celcius which is the very close to the upper temperature limit for prokaryotic life. There is also limited oxygen availability and sunlight at these depths which could also be limiting factors. The change in temperature per depth is roughly 22 degrees celcius/km. 
 
-* Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
+* **Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?**    
+The highest point on Earth where life exists is Mount Everest which is about 8.8km. However, prokaryotes have been detected in the atmosphere at altitudes as high as 57-77 km. The limiting factors can include the presence and absence of certain gasses such as oxygen, nitrogen, that are required by some prokaryotes to grow. Temperature can also be a limiting factor as it drops dramatically with altitude. The lack of moisture and presence of ionizing radiation at high altitudes can inhibit the survivial of prokaryotes.
 
-* Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
+* **Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?**  
+An accurate range may be from be top of Mount Everest (8.8km high) to the bottom of Mariana's Trench ( 10.9km deep), with an additional 4km deeper.Thus the vertical range of the biosphere is approximately 24km.
 
-* How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
+* **How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)**   
+Annual cell production=(population) * (number of days in a year)*(turnover time/year)= ____ cells/year  
+Sample Calulation of marine heterotrophs:
+(3.6x10^28 cells )*(365 days)*(16 turnovers)= 8.2x10^29 cells/year
 
-* What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
+* **What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?**    
+Carbon assimilation efficiency assumption: 0.2(20%) converting organic carbon into biomass 
+Carbon content: 20x10^-30 Pg  
+Turnover rates: 8.2x10^29 cells/year 
+Number of cells: 3.6x10^30 cells
 
-* How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
+Carbon content calculation: need to know total number of cells and amount of carbon per cell:  
+(3.6x10^28 cells)*(20x10^-30 Pg/cell)= 0.72 Pg of carbon in marine heterotrophs
 
-* Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
+4x0.72=2.88 Pg/yr
+—> They should have technically done 5x0.72 (The multiplier should be 5 because the       assimilation efficiency is 20%). They used a multiplier of 4 instead maybe because they are accounting for some sort of loss along the way. 
 
-* What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
+A large population will have a higher carbon content and longer turnover. As a result, carbon content is highly dependent on turnover rate and population size assuming that the estimated carbon assimilation efficiency is constant. These values will differ depending on the amount of exposure to sunlight and the presence of lytic bacteriophages that are present in large amounts within the upper 200km of the ocean. 
+
+51 Pg/year x 85% consumed = 43 Pg/year consumed per year  
+(43 Pg/year)/2.88 Pg/year= 14.9 turnover every 24.5 days
+
+* **How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)**   
+4x10^-7 mutations/generation 
+
+(4x10^-7)^4= 2.56x10^-26 mutations per generation —> have to go to the power of 4 since there are 4 mutations in a single gene at the same time 
+
+Next… we need to know about turnover to realize if this is a often or rare event. How  many times do cells generate themselves per year. 
+
+(365 days)/16) = 22.8 turnovers /year   
+(3.6x10^28 cells )*22.8= 8.2x10^29 cells/year  
+(8.2x10^29 cells/year)* ( 2.56x10^-26 mutationns/generation) = 22.1x10^4  mutation/year
+
+* **Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?**   
+The high mutation rate of prokaryotic cells indicates there is potential for high genetic diversity as these mutations cause individual prokaryotes to be genetically different from others. The mutations that increase fitness and survival for the prokaryotes will be able to adapt to their surroundings and successfully pass the mutations to the next generation. Apart from point mutations, horizontal gene transfer that occurs between prokaryotic organisms can also introduce new genetic material which increases genetic diversity. 
+
+* **What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text?**  
+The high prokaryotic abundance allows for high genetic diveristy. Thi is because even if some mutations decrease the fitness and survival rate of prokaryotes, there is stil a large enough population present to continue reproducing without wiping out the existence of prokaryotes altogether. Also the large enough population and diversity allows for more increased metabolic potential. 
+
+### Evidence worksheet 02 
+#### Learning objectives  
+Comment on the emergence of microbial life and the evolution of Earth systems
+
+#### General questions
+* **Indicate the key events in the evolution of Earth systems at tic marks. Describe the dominant physical and chemical characteristics of Earth systems at waypoints.**  
+**Hadean**   
+4.6 GA: Solar system formed, inner planets received water vapor and carbon. Increased CO2 and P vapour.   
+4.5 GA: Moon formed and gave Earth spin and tilt, day/night cycle, and seasons. Temperature dropped to 100 degrees celcius.    
+4.5 GA – 4.1 GA: High levels of CO2, increased temperature during times of the weak and early sun.  
+4.4 GA: Zircon formation: oldest mineral 
+4.4 GA – 4,1 GA: Meteorite impacts  
+4.1 GA: Evidence of life in zircon and from carbon isotopes  
+4 GA: Oldest rock: Acasta gneiss and evidence of plate subduction   
+**Archaean**    
+3.8 GA: Existence of life: from sedimentary rocks and methanogenesis. Meteorite bombardment halted. Sulphur reduction began. Rubisco catalyzing the fixation of nitrogen.  
+3.6 GA: Methanogenesis: the sun was very dim and without greenhouse gasses the Earth would have frozen.  
+3.5 GA: Microfossils and stromatolites present  
+3.5 GA – 2.7GA: Cyanobacteria photosynthesize  
+2.7 GA: Great oxidation event: responsible for glaciation.  Evidence of eukaryotes.  Another glaciation around 3.0GA.      
+**Proterozoic**   
+2.5 GA – 1.5 GA: red rock beds observed: evidence of oxidation  
+2.2 GA: O2 levels increase sharply which allowed for emergence of complex eukaryotes and micro aerobic early atmosphere --> oxic air. Cellular cybernetic switch between mitochondria and chloroplasts which may control the link between photsynthesis, CO2 and nitrogen fixation.  
+1.7 GA: Eukaryotes appear  
+1.1 GA: Snowball Earth occurs  
+**Phanerozoic**    
+540 MA: Cambrian explosion: increased diversity of life and larger organisms. Animals emerged  
+400 MA: Clevonian explosion: Land plants emerged, increased oxygenation of atmosphere   
+250 MA: Permian extinction: 95% species extinct   
+Gigantism of organisms  
+65 MA: Cretaceous/Paleogene Extinction
+
+* **Describe the dominant physical and chemical characteristics of Earth systems at waypoints.**  
+**Hadean**    
+There was a lot of CO2 to keep the Earth warm, as the sun was weak back then. Earth was mostly molten rock and very hot.  
+**Archean**    
+Atmosphere was filled with CH4 to keep the Earth warm still. As photosynthesis evolved, some O2 was present.  
+**Proterozoic**    
+O2 reacted with atmospheric methane to produce CO2. This caused a net decrease in greenhouse gas effects, making earth cold and leading to glaciation. Oxygen on Earth started oxidizing iron into banded iron formations, seen in sedimentary rock.  
+**Phanerozoic**    
+Plants started to evolve and can be seen on Earth. Coal deposits developed as organisms died in extinctions and were stored in sediments. There was the occasional glaciation periods
+
+
+
+### Problem set 02
+#### Learning objectives  
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles 
+
+#### General questions
+* **What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?**  
+Tectonic and atmospheric photochemical processes supply substrates, remove products to create  geochemical cycles. Both of these processes allows elements and molecules to interact with one another causing molecules to interact with each other and reach thermodynamic equilibruim. The biogeochmeical processes include microbially catlyzed, tthermodynamically constrained redox reactions and acid/base reactions. Rock weathering drives nutrient cycels to remove CO2 and allow other biological processes to occur. Volcanism and microbial-catalyzed redox reactions are also important for the fluxes of major bioelements including C, H, O, N, S and P. Abiotic processes create biogeochemical cycles in a planetary scale and geological time scales and they affect carbon, sulphur and phosphorus levels on Earth. Biotic processes on the other hand are driven by redox reactions and are responsible for carbon, hydrogen, nitrogen and sluphur. The biogeochemical cycles have evolved to form abiotically drived acid/base and biologically drived redox reactions, which set lower limits one external energy to sustain these cycles.  
+
+* **Why is Earth’s redox state considered an emergent property?**  
+
+* **How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?**  
+
+* **Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?**  
+For 
+
+* **What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?**  
+
+* **On what basis do the authors consider microbes the guardians of metabolism?**   
+
+
+
 
 
 
 ### Module 01 references
-Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
-An example for Whitman and Wiebe (1998) has been included below.
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
