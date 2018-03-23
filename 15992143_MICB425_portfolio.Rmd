@@ -80,72 +80,9 @@ Some questions that arise from the results include:
 * **Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?**  
 There was a lot of data thrown at you initially without discussing the significance or including context. They didn’t explain the studies where they took their data from or discuss whether they agreed with it or not. They only mentioned that they extropolated data but did not mention how they did it by indicating any forumlas or include any citatations. Figures and tables were straight forward and easy to understand but it was just the same information that was already mentionin the text. They mentioned the definition of species at the end but it felt very out of place. Furthermore, more granularity could have been included within the different environments to get a better understanding. For example, the ocean could have been divided into Pacific Ocean, Indian Ocean and Atlantic Ocean. The article did provide a lot of information about the results, but they did not include valid methods which makes it difficult to conclude whether the conclusions are accurate. 
 
-
-### Problem set 01
-#### Learning objectives: 
-Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
-
-#### Specific questions:
-* **What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.**  
-There are three primary prokaryotic habitats on Earth inlcuding the open ocean, soil and subsurface sediements. The open ocean has approximately 1.181x10^29 cells, and prokaryotes are primarily found in the upper 200m of open ocean. The soil has approximately 2.556x10^29 cells and subsurface sediments have about 3.8x10^30 cells. 
-
-* **What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?**   
-The estimated prokaryotic cell abundance in the upper 200m of the ocean is 3.6x10^28 cells at ocean density of 5x10^5 cells/mL. The abundance of autotrophs is 2.9x10^27 cells and the density of *Procholorococcus* is 4x10^4 cells/mL. In this habitat the average cellular density is 8% which is calculated by:   
-(4*10^4 cells/ml) divided by (5x10^5 cells) times 100%= 8%  
-8% of the autotrophs are responsible for the amount of carbon being cycles through the Earth's oceans which supports the carbon availability for the rest of the 92% heterotrophs present.
-
-* **What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?**   
-The article states that autotrophs use simple compounds around them to make their own complex organic compound. Autotrophs are “self-nourishing” and fix inorganic carbon (CO2) into their biomass. Heterotrophs assimilate organic carbon to produce energy. Lithotrophs use inorganic substrates to produce energy.
-
-* **Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?**    
-There is life up to 4km deep in the subsurface and the deepest point in the ocean is the Mariana's Trench which is about 10.9km deep. Therefore the lowest point where life could potentially exist is 14.9km deep. The limiting factor at this depth could be the high temperature as it reaches 125degrees Celcius which is the very close to the upper temperature limit for prokaryotic life. There is also limited oxygen availability and sunlight at these depths which could also be limiting factors. The change in temperature per depth is roughly 22 degrees celcius/km. 
-
-* **Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?**    
-The highest point on Earth where life exists is Mount Everest which is about 8.8km. However, prokaryotes have been detected in the atmosphere at altitudes as high as 57-77 km. The limiting factors can include the presence and absence of certain gasses such as oxygen, nitrogen, that are required by some prokaryotes to grow. Temperature can also be a limiting factor as it drops dramatically with altitude. The lack of moisture and presence of ionizing radiation at high altitudes can inhibit the survivial of prokaryotes.
-
-* **Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?**  
-An accurate range may be from be top of Mount Everest (8.8km high) to the bottom of Mariana's Trench ( 10.9km deep), with an additional 4km deeper.Thus the vertical range of the biosphere is approximately 24km.
-
-* **How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)**   
-Annual cell production=(population) * (number of days in a year)*(turnover time/year)= ____ cells/year  
-Sample Calulation of marine heterotrophs:
-(3.6x10^28 cells )*(365 days)*(16 turnovers)= 8.2x10^29 cells/year
-
-* **What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?**    
-Carbon assimilation efficiency assumption: 0.2(20%) converting organic carbon into biomass 
-Carbon content: 20x10^-30 Pg  
-Turnover rates: 8.2x10^29 cells/year 
-Number of cells: 3.6x10^30 cells
-
-Carbon content calculation: need to know total number of cells and amount of carbon per cell:  
-(3.6x10^28 cells)*(20x10^-30 Pg/cell)= 0.72 Pg of carbon in marine heterotrophs
-
-4x0.72=2.88 Pg/yr
-—> They should have technically done 5x0.72 (The multiplier should be 5 because the       assimilation efficiency is 20%). They used a multiplier of 4 instead maybe because they are accounting for some sort of loss along the way. 
-
-A large population will have a higher carbon content and longer turnover. As a result, carbon content is highly dependent on turnover rate and population size assuming that the estimated carbon assimilation efficiency is constant. These values will differ depending on the amount of exposure to sunlight and the presence of lytic bacteriophages that are present in large amounts within the upper 200km of the ocean. 
-
-51 Pg/year x 85% consumed = 43 Pg/year consumed per year  
-(43 Pg/year)/2.88 Pg/year= 14.9 turnover every 24.5 days
-
-* **How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)**   
-4x10^-7 mutations/generation 
-
-(4x10^-7)^4= 2.56x10^-26 mutations per generation —> have to go to the power of 4 since there are 4 mutations in a single gene at the same time 
-
-Next… we need to know about turnover to realize if this is a often or rare event. How  many times do cells generate themselves per year. 
-
-(365 days)/16) = 22.8 turnovers /year   
-(3.6x10^28 cells )*22.8= 8.2x10^29 cells/year  
-(8.2x10^29 cells/year)* ( 2.56x10^-26 mutationns/generation) = 22.1x10^4  mutation/year
-
-* **Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?**   
-The high mutation rate of prokaryotic cells indicates there is potential for high genetic diversity as these mutations cause individual prokaryotes to be genetically different from others. The mutations that increase fitness and survival for the prokaryotes will be able to adapt to their surroundings and successfully pass the mutations to the next generation. Apart from point mutations, horizontal gene transfer that occurs between prokaryotic organisms can also introduce new genetic material which increases genetic diversity. 
-
-* **What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text?**  
-The high prokaryotic abundance allows for high genetic diveristy. Thi is because even if some mutations decrease the fitness and survival rate of prokaryotes, there is stil a large enough population present to continue reproducing without wiping out the existence of prokaryotes altogether. Also the large enough population and diversity allows for more increased metabolic potential. 
-
 ### Evidence worksheet 02 
+[Nisbet & Sleep 2001](https://www.nature.com/articles/35059210)
+
 #### Learning objectives  
 Comment on the emergence of microbial life and the evolution of Earth systems
 
@@ -189,6 +126,98 @@ Plants started to evolve and can be seen on Earth. Coal deposits developed as or
 
 
 
+
+### Evidence worksheet 03
+
+[Rockstorm 2009](https://www.nature.com/articles/461472a)
+
+#### Learning objectives:  
+Evaluate human impacts on the ecology and biogeochemistry of Earth systems
+
+#### General Questions: 
+
+* **What were the main questions being asked** 
+The main questions that were being asked were: What "planetary boundaries" define the safe operating space for humanity with respect to the Earth? What "planetary boundaries" are associated with Earth's biophysical processes? What are the Earth-system processes and associated thresholds? Can these generate unacceptable environmental change? How close is human society from reaching these thresholds in different Earth systems? 
+
+* **What were the primary methodological approaches used?** 
+To determine climate change sediments and ice cores were used to measure greenhouse gas levels in the past. To determine biodiversity loss, fossil records were used to compare extinction rates. they also used the changes in climate, vegetation and land over the years to study the change in biodiversity. To study the nitrogen and phosphorus cycles they used water sampling. They  studied the amount of fertilizer that was used to determine the amount of nitrogen that was added to the atmosphere by humans. They also defined the boundary of N-levles by saying that human fixation of N2 from the atmosphere was a big 'valve' which was responsible for the flow of nitrogen. 
+
+* **Summarize the main results or findings.** 
+The article states that climate change, rate of biodiversity loss and the changes in the nitrogen cycle is what has caused the planetary boundaries to change as the threshold has been surpassed. Humans are thought to be the main cause for changes in climate change as we are continuously interfering with the biogeochemical cycles such as the nitrogen cycle. Atmospheric CO2 concentration should not typically exceed 350 ppm as this is the threshold but the current CO2 concentration is 387 ppm indicating that we have already surpassed the threshold. The article also indicates that no more than 11 million tonnes of phosphorous should be entering oceans per year. One of the major points in the article is that all the boundaries are closely related to one another, in other words if one boundary is crossed than the other boundaries are also likely to be crossed. If the thresholds of these boundaries are maintained then Earth will continue to be a safe place to live however if these thresholds are continuously surpassed then humanity is in danger. 
+
+* **Do new questions arise from the results?** 
+The appropriate threshold for N2 is still unclear, indicating that more resesarch is needed to accurately pinpoint a value. So far, seven boundaries have been established but only some have concrete evidence and information. This indicates that more studies need to be done to describe the link between these boundaries. The article also does not really indicate how disturbing one boundary might affect another one. 
+
+* **Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?** 
+A major problem with this article was that the methodologies were not properly and clearly explained. They mostly stated the results without clearly indicating how they got the results, and this makes their work seem less valid. Another flaw is that they did not include any useful figures, tables or graphs. Adding these would have greatly helped in understanding the concepts. Other than this the claims and conclusions made in this paper were well supported and all the points were justified with proper evidence. The provided background was also sufficient to understand the topic. The different sections within the paper were divided strategically which made it easy to follow along.  
+
+
+### Problem set 01
+#### Learning objectives: 
+Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
+
+#### Specific questions:
+* **What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.**  
+There are three primary prokaryotic habitats on Earth inlcuding the open ocean, soil and subsurface sediements. The open ocean has approximately 1.181x10^29 cells, and prokaryotes are primarily found in the upper 200m of open ocean. The soil has approximately 2.556x10^29 cells and subsurface sediments have about 3.8x10^30 cells. 
+
+* **What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?**   
+The estimated prokaryotic cell abundance in the upper 200m of the ocean is 3.6x10^28 cells at ocean density of 5x10^5 cells/mL. The abundance of autotrophs is 2.9x10^27 cells and the density of *Procholorococcus* is 4x10^4 cells/mL. In this habitat the average cellular density is 8% which is calculated by:   
+(4*10^4 cells/ml) divided by (5x10^5 cells) times 100%= 8%  
+8% of the autotrophs are responsible for the amount of carbon being cycles through the Earth's oceans which supports the carbon availability for the rest of the 92% heterotrophs present.
+
+* **What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?**   
+The article states that autotrophs use simple compounds around them to make their own complex organic compound. Autotrophs are “self-nourishing” and fix inorganic carbon (CO2) into their biomass. Heterotrophs assimilate organic carbon to produce energy. Lithotrophs use inorganic substrates to produce energy.
+
+* **Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?**    
+There is life up to 4km deep in the subsurface and the deepest point in the ocean is the Mariana's Trench which is about 10.9km deep. Therefore the lowest point where life could potentially exist is 14.9km deep. The limiting factor at this depth could be the high temperature as it reaches 125degrees Celcius which is the very close to the upper temperature limit for prokaryotic life. There is also limited oxygen availability and sunlight at these depths which could also be limiting factors. The change in temperature per depth is roughly 22 degrees celcius/km. 
+
+* **Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?**    
+The highest point on Earth where life exists is Mount Everest which is about 8.8km. However, prokaryotes have been detected in the atmosphere at altitudes as high as 57-77 km. The limiting factors can include the presence and absence of certain gasses such as oxygen, nitrogen, that are required by some prokaryotes to grow. Temperature can also be a limiting factor as it drops dramatically with altitude. The lack of moisture and presence of ionizing radiation at high altitudes can inhibit the survivial of prokaryotes.
+
+* **Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?**  
+An accurate range may be from be top of Mount Everest (8.8km high) to the bottom of Mariana's Trench ( 10.9km deep), with an additional 4km deeper.Thus the vertical range of the biosphere is approximately 24km.
+
+* **How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)**   
+Annual cell production=(population) * (number of days in a year)*(turnover time/year)= ____ cells/year  
+Sample Calulation of marine heterotrophs:
+(3.6x10^28 cells )*(365 days)*(16 turnovers)= 8.2x10^29 cells/year
+
+* **What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?**    
+Carbon assimilation efficiency assumption: 0.2(20%) converting organic carbon into biomass 
+Carbon content: 20x10^-30 Pg  
+Turnover rates: 8.2x10^29 cells/year 
+Number of cells: 3.6x10^30 cells 
+
+Carbon content calculation: need to know total number of cells and     amount of carbon per cell:  
+(3.6x10^28 cells)*(20x10^-30 Pg/cell)= 0.72 Pg of carbon in marine     heterotrophs
+
+4x0.72=2.88 Pg/yr
+—> They should have technically done 5x0.72 (The multiplier should be 5 because the       assimilation efficiency is 20%). They used a multiplier of 4 instead maybe because they are accounting for some sort of loss along the way. 
+
+A large population will have a higher carbon content and longer turnover. As a result, carbon content is highly dependent on turnover rate and population size assuming that the estimated carbon assimilation efficiency is constant. These values will differ depending on the amount of exposure to sunlight and the presence of lytic bacteriophages that are present in large amounts within the upper 200km of the ocean. 
+
+51 Pg/year x 85% consumed = 43 Pg/year consumed per year  
+(43 Pg/year)/2.88 Pg/year= 14.9 turnover every 24.5 days
+
+* **How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)**   
+4x10^-7 mutations/generation 
+
+(4x10^-7)^4= 2.56x10^-26 mutations per generation —> have to go to the power of 4 since there are 4 mutations in a single gene at the same time 
+
+Next… we need to know about turnover to realize if this is a often or rare event. How  many times do cells generate themselves per year. 
+
+(365 days)/16) = 22.8 turnovers /year   
+(3.6x10^28 cells )*22.8= 8.2x10^29 cells/year  
+(8.2x10^29 cells/year)* ( 2.56x10^-26 mutationns/generation) = 22.1x10^4  mutation/year
+
+* **Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?**   
+The high mutation rate of prokaryotic cells indicates there is potential for high genetic diversity as these mutations cause individual prokaryotes to be genetically different from others. The mutations that increase fitness and survival for the prokaryotes will be able to adapt to their surroundings and successfully pass the mutations to the next generation. Apart from point mutations, horizontal gene transfer that occurs between prokaryotic organisms can also introduce new genetic material which increases genetic diversity. 
+
+* **What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text?**  
+The high prokaryotic abundance allows for high genetic diveristy. Thi is because even if some mutations decrease the fitness and survival rate of prokaryotes, there is stil a large enough population present to continue reproducing without wiping out the existence of prokaryotes altogether. Also the large enough population and diversity allows for more increased metabolic potential. 
+
+
+
 ### Problem set 02
 #### Learning objectives  
 Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles 
@@ -198,17 +227,19 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 Tectonic and atmospheric photochemical processes supply substrates, remove products to create  geochemical cycles. Both of these processes allows elements and molecules to interact with one another causing molecules to interact with each other and reach thermodynamic equilibruim. The biogeochmeical processes include microbially catlyzed, tthermodynamically constrained redox reactions and acid/base reactions. Rock weathering drives nutrient cycels to remove CO2 and allow other biological processes to occur. Volcanism and microbial-catalyzed redox reactions are also important for the fluxes of major bioelements including C, H, O, N, S and P. Abiotic processes create biogeochemical cycles in a planetary scale and geological time scales and they affect carbon, sulphur and phosphorus levels on Earth. Biotic processes on the other hand are driven by redox reactions and are responsible for carbon, hydrogen, nitrogen and sluphur. The biogeochemical cycles have evolved to form abiotically drived acid/base and biologically drived redox reactions, which set lower limits one external energy to sustain these cycles.  
 
 * **Why is Earth’s redox state considered an emergent property?**  
+The Earth's redox state is an emergent property because the feedback between microbial evolution and biogeochemical processes have created the current redox state of the Earth. All of these processes are linked and interconnected in some way. 
 
 * **How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?**  
+A nutrient cycle is produced when the products of one reaction are fed into a new reaction, and these cycles can be either oxidative or reductive. As for strategies methanogenic Archae that reduce CO2 with H2 also require high H+ tension for the reaction to proceed forward. Without the input of H+, the reaction will proceed in reverse. Certain species of methanogens use this reverse reaction through the sunergistic cooperation with H2 consuming sulfate reducers. 
 
 * **Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?**  
-For 
+In order for organisms to have access to N2 for synthesis of proteins and nucliec acids, nitrogen fixation has to occur. Nitrogen fixation converts N2 to NH4. However, the enzymes that are resposible for nitrogen fixation are inhibited by the presence of O2. In the presence of O2, NH4 is oxidized to nitrite by a group of bacteria. The nitrite is then further oxidized to nitrate by a different set of nitrifying organisms. These organisms perform reactions that reduce CO2 to organic matter. On the other hand, in the absence of O2, microbes can use nitrite and nitrate as electron acceptors in anaerobic oxidation leading to N2 prodution, and this completes the Nitrogen cycle. The nitrogen cycle forms an interdependent electron pool that requires oxygen produced from photosynethesis and the presence of organic matter. Changes in the climate can have a direct effect on photosynthesis which can in turn affect the Nitrogen cycle. This is because photosynthetic organisms requrie nitrogen oxides as terminal electron acceptors and these cannot be supplied if the nitrogen cycle is flawed. The Nitrogen cycle can also influence climate change by decreasing CO2 levels. Nitrifying organisms can use NH4 or NO2 to reduce CO2 into organic matter which will in turn decrease CO2 levels in the atmosphere. 
 
-* **What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?**  
+* **What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?** 
+There is a lot of metabolic diversity among microbial communities. The discovery of new protein families is increasing with the number of new genomes that are sequenced. Several essential multimeric microbial engines are conserved even though they are operating sub-optimally. This causes the generation of complicated repair cycles where new proteins can be created to either repair or replace the sub-optimally performing protein. So the conservation of such essential metabolic genes can cause new protein families to arise. 
 
-* **On what basis do the authors consider microbes the guardians of metabolism?**   
-
-
+* **On what basis do the authors consider microbes the guardians of metabolism?** 
+Life was very restricted due to the glacial periods and as a result metabolic pathways have been protected. Since the metabolic mechanisms have been transferred by horizontal gene transfer to all species on earth, it is possible for individual taxonomic units to go extint while the core metabolic processes continue to persist. 
 
 
 
@@ -217,3 +248,106 @@ For
 
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+#Module 2
+
+## Module 02 Portfolio Content
+
+* Evidence worksheet_04
+    + Completion status:
+    + Comments:
+* Problem Set_03
+    + Completion status:
+    + Comments:
+* Writing assessment_02
+    + CANCELED
+* Additional Readings
+    + Completion status:
+    + Comments 
+
+## Remapping the Body of the World
+### Evidence worksheet 04
+#### Learning objectives 
+Discuss the relationship between microbial community structure and metabolic diversity. Evaluate common methods for studying the diversity of microbial communities. Recognize basic design elements in metagenomic workflows.
+
+#### General questions  
+* **What were the main questions being asked?**  
+There were 2 main questions that were being asked. First question was is if light driven ATP synthesis can be transferred to a heterologous bacterium in a single genetic event. Another question that was asked to further characterize PR photosystems strucutre and function. 
+
+* **What were the primary methodological approaches used?**  
+The primary methodologies that were used include secreening for PR-containing clones on retinal-containing LB agar plating medium, by looking for red or orange pigmentation. The full DNA sequence of the two putative PR photosystem containing fosmids was obtained by sequencing a collection of transposon-insertion clones. The different transposon insertion mutants were analyzed to look for the accumulations of intermediates to deduce functions. This was done using cell pigmentation and HPLC pigment analyses. The pH was also measured to determine whether fosmids independently expressed a functional PR with light-activated proton-translocating activity. 
+
+* **Summarize the main results or findings. **  
+Two fosmids were identified that contained the genes that are necessary for proteorhodopsin based phototrophy. These were cloned into E.coli cells and both exterior pH and interior ATP concentration were shown to change when the E. coli cells were exposed to light. Further, they showed that these fosmids contained genes sufficient to produce retinol (Pr cofactor) as long as the cells already produced the intermediate FPP, which E. coli and many other bacteria do. Copy number of the genes showed a difference in the phenotypic identification. The clones also had high similarity to other PR-containing BAC clones from Alphaproteobacteria from the Mediterranean and Red Seas. 
+
+* **Do new questions arise from the results?**  
+Some new questions that arise are: 
+How much variation in this grouping of genes is there naturally? 
+Are retinal pathways usually close to the PR gene? Are they transferred together as a rule? 
+Are these genes usually located on a plasmid or integrated into the bacterial genome in natural communities? 
+Expect to see this gene set distributed across a lot of phyla? 
+
+* **Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?**  
+Some specific challenges in understanding the paper was the specific definition and function of fosmids. Other than this the authors provided sufficient background to educate the readers. The provided figures were easy to understand and helped with understanding the pathways better. All the claims were supported by evidence which increased the credibility of the authors. 
+
+### Problem set_03 
+#### Learning objectives: 
+Specific emphasis should be placed on the process used to find the answer. Be as comprehensive as possible e.g. provide URLs for web sources, literature citations, etc.  
+*(Reminders for how to format links, etc in RMarkdown are in the RMarkdown Cheat Sheets)*
+
+#### Specific Questions:
+* **How many prokaryotic divisions have been described and how many have no cultured representatives (microbial dark matter)?**
+  
+
+* **How many metagenome sequencing projects are currently available in the public domain and what types of environments are they sourced from?**
+  
+
+* **What types of on-line resources are available for warehousing and/or analyzing environmental sequence information (provide names, URLS and applications)?** 
+
+* **What is the difference between phylogenetic and functional gene anchors and how can they be used in metagenome analysis?**   
+
+* **What is metagenomic sequence binning? What types of algorithmic approaches are used to produce sequence bins? What are some risks and opportunities associated with using sequence bins for metabolic reconstruction of uncultivated microorganisms?** 
+
+* **Is there an alternative to metagenomic shotgun sequencing that can be used to access the metabolic potential of uncultivated microorganisms? What are some risks and opportunities associated with this alternative?**  
+
+# Module 03
+
+## Module 03 Portfolio Content
+
+* Evidence worksheet_05
+    + Completion status:
+    + Comments:
+* Problem set_04
+    + Completion status:
+    + Comments:
+* Writing Assessment_03
+    + Completion status:
+    + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments 
+    
+### Project 1
+
+* CATME account setup and survey
+    + Completion status: 
+    + Comments: 
+* CATME interim group assessment
+    + Completion status: 
+    + Comments:
+* Project 1
+    + Report (80%): 
+    + Participation (20%):
+    
+# Module 04
+## Module 04 Portfolio Content
+### Project 2
+
+* CATME final group assessment
+    + Completion status: 
+    + Comments:
+* Project 2
+    + Report (80%): 
+    + Participation (20%):
+
+
